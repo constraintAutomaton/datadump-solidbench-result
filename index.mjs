@@ -100,8 +100,3 @@ for (const [name, queryGroup] of groupQueries) {
 
 console.log(errorQueries);
 resultGroupToFile(queryResultObject);
-
-//
-
-
-// docker run -v /home/bryanelliott/Documents/PhD/coding/shapeIndexExperiment/test/test_datadump/out-fragments/http/localhost_3000:/data --interactive comunica/query-sparql-hdt:latest hdt@/data/datadump.hdt -q' SELECT ?s ?p ?o WHERE {    ?s ?p ?o  } LIMIT 100 -t stats'
