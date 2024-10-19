@@ -21,3 +21,19 @@ execute the queries and record the results with
 ```sh
 yarn node index.mjs
 ```
+
+Currently not able to perform the queries
+
+```js
+[
+  { query: 'interactive-complex-1.sparql', v: 1 },
+  { query: 'interactive-complex-1.sparql', v: 2 },
+  { query: 'interactive-complex-1.sparql', v: 3 },
+  { query: 'interactive-complex-1.sparql', v: 4 },
+  { query: 'interactive-complex-7.sparql', v: 0 },
+  { query: 'interactive-complex-7.sparql', v: 1 },
+  { query: 'interactive-complex-7.sparql', v: 2 },
+  { query: 'interactive-complex-7.sparql', v: 3 },
+  { query: 'interactive-complex-7.sparql', v: 4 }
+]
+```
