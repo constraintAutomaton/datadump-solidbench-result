@@ -1,5 +1,5 @@
 {
-  "name": "test_datadump",
+  "name": "datadump-solidbench-result",
   "packageManager": "yarn@4.1.1",
   "dependencies": {
     "dockerode": "^4.0.2",
