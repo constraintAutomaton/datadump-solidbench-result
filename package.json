@@ -1,4 +1,13 @@
 {
   "name": "test_datadump",
-  "packageManager": "yarn@4.1.1"
+  "packageManager": "yarn@4.1.1",
+  "dependencies": {
+    "dockerode": "^4.0.2",
+    "solidbench": "^2.0.0",
+    "stream-to-string": "^1.2.1"
+  },
+  "scripts": {
+    "solidbench-generate": "node --max-old-space-size=16000 ./node_modules/solidbench/bin/solidbench generate -f ./config-fragmenter.json",
+    "clean": "rm -rf out-enhanced out-fragments out-queries out-snb out-validate out-validate-params/"
+  }
 }
