@@ -1,0 +1,42 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "moderatorId": {
+          "value": "15393162789228",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "moderatorLastName": {
+          "value": "Carr",
+          "type": "literal"
+        },
+        "moderatorFirstName": {
+          "value": "Ashley",
+          "type": "literal"
+        },
+        "forumTitle": {
+          "value": "Wall of Ashley Carr",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "481036342518",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

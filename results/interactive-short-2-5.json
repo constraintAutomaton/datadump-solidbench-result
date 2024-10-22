@@ -1,0 +1,360 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageId": {
+          "value": "206158534069",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158534066",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Phil Spector, 6). Vol. 4 VaAbout Saddam Hussein, hich he tightAbout Ra",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-17T22:16:44.015Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256437",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Engel",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Rudolf",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158605495",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158605494",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Luciano Pavarotti, s lifetime of work. About Elton John, r. In 2003, t",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-19T00:30:43.522Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158534111",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158534102",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About George W. Bush, e W. Bush presidential campAbout This Charming Man, e idea",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-20T08:29:37.073Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256437",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Engel",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Rudolf",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "274878064173",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "274878064172",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Sonia Gandhi, She is the widow of forAbout Roy Orbison, ng him the sobriquet thAbout",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-09-13T20:38:06.456Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "1490",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Wilson",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "John",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "274878082342",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "274878082331",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Sonia Gandhi, as been the President of theAbout Moby, shing Pumpkins, Michael JackAbout Merry Christmas II You, hristmas hit All I Want for About To the Moon ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-09-15T07:06:42.528Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "343597487630",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "343597487625",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Yuvan Shankar Raja, ferent and innoAbout Emmylou Harris, , both as a",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-23T16:03:24.391Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256437",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Engel",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Rudolf",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "412317017559",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "412317017552",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Diocletian, erors. Under this TetrarcAbout Gene Autry, oma, United States. The pAbout Moldova, e breakaway governme",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-02-19T12:43:48.327Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "1490",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Wilson",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "John",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "481036512720",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "481036512712",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About John Howard, ing Richard III ofAbout John Mayer, ohn Mayer Trio. ThAbout Stuck Like Glue, 2010, ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-04-14T20:06:16.481Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "481036512745",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "481036512738",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Mahmoud Ahmadinejad, rceive to beAbout Bulgaria, ia to align About Jamaica, ilomet",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-04-15T02:52:23.809Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "549755886266",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "549755886262",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Juan Pablo Montoya, rand-AM and NAbout Wilhelm II, German Emperor, he lost the sAbo",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-06-27T17:23:22.362Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "15393162790400",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Costa",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Jose",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

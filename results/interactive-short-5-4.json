@@ -1,0 +1,31 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "firstName",
+      "lastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "firstName": {
+          "value": "Ammar",
+          "type": "literal"
+        },
+        "lastName": {
+          "value": "Boughedir",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "30786325578320",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

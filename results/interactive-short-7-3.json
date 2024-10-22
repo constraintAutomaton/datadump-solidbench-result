@@ -1,0 +1,19 @@
+{
+  "head": {
+    "vars": [
+      "commentId",
+      "commentContent",
+      "commentCreationDate",
+      "replyAuthorId",
+      "replyAuthorFirstName",
+      "replyAuthorLastName",
+      "replyAuthorKnowsOriginalMessageAuthor"
+    ]
+  },
+  "results": {
+    "bindings": []
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "head": {
+    "vars": [
+      "locationName",
+      "messages"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationName": {
+          "value": "Morocco",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "83",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Turkey",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Mongolia",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Sweden",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Cameroon",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Singapore",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "England",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

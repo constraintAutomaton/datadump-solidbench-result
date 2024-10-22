@@ -1,0 +1,42 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "moderatorId": {
+          "value": "26388279068034",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "moderatorLastName": {
+          "value": "Khan",
+          "type": "literal"
+        },
+        "moderatorFirstName": {
+          "value": "Karthik",
+          "type": "literal"
+        },
+        "forumTitle": {
+          "value": "Album 9 of Karthik Khan",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1030792167553",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "head": {
+    "vars": [
+      "commentId",
+      "commentContent",
+      "commentCreationDate",
+      "replyAuthorId",
+      "replyAuthorFirstName",
+      "replyAuthorLastName",
+      "replyAuthorKnowsOriginalMessageAuthor"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "replyAuthorFirstName": {
+          "value": "Yahya Ould Ahmed El",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-21T07:35:26.391Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "13194139533332",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Abdallahi",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "About Henry II of England, ng, and a final rebellion bAbout Paul the Apostle, ry",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787224",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Rafael",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-21T21:26:01.318Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "13194139534982",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Alves",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "About Henry II of England, ense, taking BrittAbout Joe Strummer, levision and movieAb",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787226",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Yahya Ould Ahmed El",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-22T00:55:05.032Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "13194139533332",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Abdallahi",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "no way!",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787235",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Edmond",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-21T07:45:01.006Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "17592186046041",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Allouache",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "About Henry II of England, ical interpretations of HenrAbout Thomas More, st saintl",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787233",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Abdoulaye Khouma",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-21T11:49:10.786Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "17592186046083",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Faye",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "ok",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787234",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Babar",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-21T07:32:06.508Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "19791209300021",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Khan",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "no way!",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787222",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Bertin",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-21T10:11:48.570Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "19791209300317",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Bona",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787223",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Chaim Azriel",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2011-10-21T21:46:09.978Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "true",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "19791209300507",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Epstein",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "great",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "687194787221",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

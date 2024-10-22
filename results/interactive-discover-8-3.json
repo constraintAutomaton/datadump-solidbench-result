@@ -1,0 +1,115 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Hell Awaits,  Awaits is the second studio album by the American thrash metal band Slayer, released throu",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Ehud Olmert, Government, aAbout Ian Fleming,  August 1964 About Cole Porter, iump",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Silvio Berlusconi, re-right candidate for PrimeAbout Will.i.am, ), better kn",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Andrew Jackson, system during his presidency tAbout Rutherford B. Hayes, e center c",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Bill Clinton, rm the Clinton Bush Haiti Fund. Since leavingAbout You Oughta Know, success, the song won two Grammy Awards: BestAbout Uptown Girl, play by Julia Dahl, Mo Ogr",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Ovid, the Roman calendar; and the Tristia and EAbout Imelda Marcos,  Marcos (born Imelda Remedios Visitasion About ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Karl Marx, ety, capitalism, he caAbout Imelda Marcos, ower, she held variousAbout Brimful of Asha, nre ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "right",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "LOL",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "I see",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000008796093022749/profile/card#me",
+          "type": "uri"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

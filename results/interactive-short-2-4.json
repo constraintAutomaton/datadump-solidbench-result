@@ -1,0 +1,360 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageId": {
+          "value": "1030792239113",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "1030792239101",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Adolf Hitler, his extreme nationaliAbout Cliff Richard, f Richards (born 1964About George W. Bush, about the 2000 presidAbout Joseph Stali",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-08-30T22:00:19.021Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "6597069768211",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Ouma",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Edward",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792343500",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "1030792343489",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Arnold Schwarzenegger,  Hollywood action fAbout Francis Ford Coppola",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-14T17:15:29.874Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "15393162788906",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Achiou",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Ali",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792343846",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "1030792343843",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Arnold Schwarzenegger, fessional bodybuilder, actor, businessman, inAbout The Simps",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-23T13:53:19.991Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "26388279067047",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Akhmadiyeva",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Alexandr",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158519097",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158519096",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About James Joyce, or works are the short-story cAbout Mark Antony, and his lover Cleopa",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-31T09:42:46.079Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "6597069768211",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Ouma",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Edward",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158519105",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158519096",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About James Joyce, este, Paris and Zurich.About Trinidad and Tobago, resident George Maxwe",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-09-01T06:45:47.165Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "6597069768211",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Ouma",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Edward",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158582817",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158582814",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Pope Pius X, explicitly invoAbout Horatio Nelson, 1st Viscount Nelson,  in the ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-07T04:54:18.746Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023257206",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Aziz",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Kamal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158582915",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158582911",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Johann Sebastian Bach, composer untAbout Rory Gallagher, lications laAbout P. G. Wo",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-06T23:33:07.788Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023257206",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Aziz",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Kamal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158582940",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158582937",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Laurence Olivier, t actor to be knighted and the first tAbout The Ema",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-07T10:04:54.447Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023257206",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Aziz",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Kamal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158582959",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158582956",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Rory Gallagher, ms throughout the 1970s and 1980s, after forming the band Taste during the lAbout Kingdom of Castile, omes from the host of castl",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-06T16:20:28.447Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023257206",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Aziz",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Kamal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158583098",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158583097",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Wales, aritime climate makingAbout Puerto Rico, ally, Associated Free About Exi",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-07T03:03:38.338Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023257206",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Aziz",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Kamal",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

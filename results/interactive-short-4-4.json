@@ -1,0 +1,26 @@
+{
+  "head": {
+    "vars": [
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Aaron Copland, e vast American landscape and pioneer spirit. However, he wrote music in different styles at different periods of his life: his early works ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-03-21T12:49:13.207Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

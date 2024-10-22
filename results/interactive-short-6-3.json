@@ -1,0 +1,42 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "moderatorId": {
+          "value": "4398046512573",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "moderatorLastName": {
+          "value": "Irama",
+          "type": "literal"
+        },
+        "moderatorFirstName": {
+          "value": "Eko Maulana",
+          "type": "literal"
+        },
+        "forumTitle": {
+          "value": "Wall of Eko Maulana Irama",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "137438958676",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

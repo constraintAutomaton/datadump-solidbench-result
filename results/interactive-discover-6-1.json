@@ -1,0 +1,378 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumTitle": {
+          "value": "Wall of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "0",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 26 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "68719476763",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 13 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "137438953486",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 10 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "206158430219",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 14 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "206158430223",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 20 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "206158430229",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 25 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "206158430234",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 22 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "206158430231",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 11 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "343597383692",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 31 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "343597383712",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 24 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "412316860441",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 16 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "412316860433",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 9 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "481036337162",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 1 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "481036337154",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 15 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "481036337168",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 5 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "618475290630",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 8 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "618475290633",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 21 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "618475290646",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 19 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "687194767380",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 17 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "687194767378",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 28 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "755914244125",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 2 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "755914244099",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 29 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "824633720862",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 23 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "824633720856",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 32 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "824633720865",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 33 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "893353197602",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 4 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "893353197573",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Group for George_Clooney in Narathiwat",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "824633726247",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 34 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "962072674339",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 3 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1030792151044",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 30 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1030792151071",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 6 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1030792151047",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 7 of Mahinda Perera",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1099511627784",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

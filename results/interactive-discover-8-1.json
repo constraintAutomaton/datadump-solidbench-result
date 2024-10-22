@@ -1,0 +1,115 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Rupert Murdoch, ausing bitter iAbout Jane Austen, s Austen, Jane'About Kurt Vonn",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About John Howard, attle of Bosworth About Jane Austen, personal and familAbout Eddie Mur",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Ben Jonson,  Jonson (c. 11 June 1572 – 6 August 1637) was an English R",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Walt Disney, , he was co-founder of Walt Disney Productions, which later bec",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About George Frideric Handel, l instrumentation, intereAbout Joan Baez, om",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Chen Shui-bian, ang (KMT) control ofAbout Ted Kennedy, ment emphasizin",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Louis XVI of France, ion against the absolute monarchy. The fAbout Carl ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Adolf Hitler, themes, including aAbout J. R. R. Tolkien, the author o",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Electrolite, d the closing 20th century. The single was released on Decembe",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Sanath Jayasuriya, ict. He topped About John McCain, that the war inAbout Sparta, ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000024189255811254/profile/card#me",
+          "type": "uri"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

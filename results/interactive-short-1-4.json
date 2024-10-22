@@ -1,0 +1,58 @@
+{
+  "head": {
+    "vars": [
+      "firstName",
+      "lastName",
+      "birthday",
+      "locationIP",
+      "browserUsed",
+      "cityId",
+      "gender",
+      "creationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "lastName": {
+          "value": "Arbelaez",
+          "type": "literal"
+        },
+        "gender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "browserUsed": {
+          "value": "Chrome",
+          "type": "literal"
+        },
+        "cityId": {
+          "value": "1062",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#int"
+        },
+        "creationDate": {
+          "value": "2010-06-16T20:53:47.633Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "firstName": {
+          "value": "Gustavo",
+          "type": "literal"
+        },
+        "locationIP": {
+          "value": "190.96.189.165",
+          "type": "literal"
+        },
+        "birthday": {
+          "value": "1986-11-02",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

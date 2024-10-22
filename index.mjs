@@ -52,6 +52,7 @@ for (const [name, queryGroup] of groupQueries) {
       await getImage(docker);
     }
     resultGroupToFile(queryResultObject, queryMetaResult);
+    generateSummaryTable(queryMetaResult);
   }
 }
 

@@ -1,0 +1,257 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "firstName",
+      "lastName",
+      "friendshipCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "friendshipCreationDate": {
+          "value": "2010-06-21T09:23:42.969Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Aziz",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "2199023257206",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Kamal",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2010-07-01T05:17:33.522Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Arango",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "4398046512201",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Jorge",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2010-08-19T00:23:46.014Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Ouma",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "6597069768211",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Edward",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2010-10-15T00:06:15.754Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Amjad",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "8796093022467",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Muhammad",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2011-08-06T13:44:14.313Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Araya",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "19791209300326",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Eduardo",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2011-08-10T06:06:03.387Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Alvarez",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "19791209300608",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Antonio",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2011-09-23T06:25:50.478Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Sumac",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "19791209300787",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Gisela",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2011-07-28T19:41:07.182Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Kolessov",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "19791209301454",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Marat",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2011-11-25T18:59:31.990Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Escobar",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "24189255812580",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Jorge",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2012-02-04T18:56:44.907Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Oliveira",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "26388279066664",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Celso",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2012-01-14T07:51:19.334Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Dom Pedro II",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "26388279067534",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Emperor of Brazil",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2012-08-16T17:12:48.718Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Rodriguez",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "32985348833653",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Gabriel",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "firstName",
+      "lastName",
+      "friendshipCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "friendshipCreationDate": {
+          "value": "2010-05-03T16:40:15.103Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "friendshipCreationDate": {
+          "value": "2011-06-23T11:17:36.047Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "lastName": {
+          "value": "Guliyev",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "17592186044425",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "firstName": {
+          "value": "Alim",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

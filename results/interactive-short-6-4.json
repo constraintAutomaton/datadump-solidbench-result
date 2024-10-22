@@ -1,0 +1,42 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle",
+      "moderatorId",
+      "moderatorFirstName",
+      "moderatorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "moderatorId": {
+          "value": "4398046511367",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "moderatorLastName": {
+          "value": "Singh",
+          "type": "literal"
+        },
+        "moderatorFirstName": {
+          "value": "Allu",
+          "type": "literal"
+        },
+        "forumTitle": {
+          "value": "Album 22 of Allu Singh",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "687194781509",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

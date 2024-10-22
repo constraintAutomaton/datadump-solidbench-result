@@ -1,0 +1,48 @@
+{
+  "head": {
+    "vars": [
+      "locationName",
+      "messages"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationName": {
+          "value": "Estonia",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "40",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Germany",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Puerto_Rico",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

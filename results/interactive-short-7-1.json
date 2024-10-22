@@ -1,0 +1,156 @@
+{
+  "head": {
+    "vars": [
+      "commentId",
+      "commentContent",
+      "commentCreationDate",
+      "replyAuthorId",
+      "replyAuthorFirstName",
+      "replyAuthorLastName",
+      "replyAuthorKnowsOriginalMessageAuthor"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "replyAuthorFirstName": {
+          "value": "Alfonso",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2010-04-25T04:33:25.932Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "false",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "150",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Alvarez",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "About Paul Martin, ParliamenAbout Indira Gandhi,  She adheAbout Frederick ",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "68719564531",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Alfonso",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2010-04-25T17:37:05.576Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "false",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "150",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Alvarez",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "yes",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "68719564530",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Alfonso",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2010-04-25T11:38:05.055Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "false",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "150",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Alvarez",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "maybe",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "68719564532",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "replyAuthorFirstName": {
+          "value": "Alfonso",
+          "type": "literal"
+        },
+        "commentCreationDate": {
+          "value": "2010-04-25T03:29:59.415Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "replyAuthorKnowsOriginalMessageAuthor": {
+          "value": "false",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
+        },
+        "replyAuthorId": {
+          "value": "150",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "replyAuthorLastName": {
+          "value": "Alvarez",
+          "type": "literal"
+        },
+        "commentContent": {
+          "value": "no",
+          "type": "literal"
+        },
+        "commentId": {
+          "value": "68719564536",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

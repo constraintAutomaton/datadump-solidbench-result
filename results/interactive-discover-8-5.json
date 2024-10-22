@@ -1,0 +1,115 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Titian,  art. During the course of About Organisation for Economic Co-oper",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About John Gielgud, oice, which his colleague Sir Alec Guinness likened to a",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Vladimir Putin, ter of Russia from 1999 to 2000, and again About Muttiah Mural",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Robert Schumann, n, Album für About Peter Hain, ic supporter About Joy to the W",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Dominican Republic, Columbus landed on it in 1492, and it became the site of the first permanent European settlement in the Americas, namely Santo Domingo, the country's ca",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Nikita Khrushchev,  of ordinary citizens, were often ineffAbout Walk Ri",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Robert E. Lee, hington and LAbout Live aus Berlin, tian Flake LoAbout Q",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Republic of Venice, ene Republic of VeAbout Czech Republic, f Czechoslovakia aA",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Baltic states, stonia is only considered Baltic geographically, not lingAbout John the Baptist,  be greater",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About François Mitterrand, cond terAbout Arthur Wellesley, 1st Duke of Wellington, form",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000021990232556220/profile/card#me",
+          "type": "uri"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

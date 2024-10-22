@@ -1,0 +1,104 @@
+{
+  "head": {
+    "vars": [
+      "locationIp"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationIp": {
+          "value": "119.235.7.103",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "24.38.132.255",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "83.220.193.115",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "103.3.211.48",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "200.73.197.93",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "85.158.148.142",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "31.216.136.54",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "196.20.74.92",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "49.246.218.237",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "41.205.219.188",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "204.79.207.127",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "86.57.175.109",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "62.24.112.101",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "42.156.35.41",
+          "type": "literal"
+        }
+      },
+      {
+        "locationIp": {
+          "value": "95.153.46.147",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

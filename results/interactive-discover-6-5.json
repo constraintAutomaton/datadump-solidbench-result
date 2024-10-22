@@ -1,0 +1,312 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumTitle": {
+          "value": "Wall of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "206158430247",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 7 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "274877906991",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 17 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "274877907001",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 25 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "274877907009",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 28 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "274877907012",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 20 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "274877907004",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 10 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "274877906994",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 0 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "274877906984",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 18 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "343597383738",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 22 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "343597383742",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 3 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "412316860459",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 1 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "481036337193",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 16 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "549755813944",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 19 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "618475290683",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 8 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "618475290672",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 11 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "755914244147",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 21 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "755914244157",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 6 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "755914244142",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 12 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "824633720884",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 26 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "893353197634",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 23 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "893353197631",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 13 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "962072674357",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 14 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "962072674358",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 5 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "962072674349",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 15 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1030792151095",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 2 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1030792151082",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Album 27 of Eli Peretz",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "1030792151107",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

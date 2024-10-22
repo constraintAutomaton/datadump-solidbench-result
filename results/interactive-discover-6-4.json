@@ -1,0 +1,37 @@
+{
+  "head": {
+    "vars": [
+      "forumId",
+      "forumTitle"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "forumTitle": {
+          "value": "Group for Arnold_Schwarzenegger in Dehradun",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "343597391512",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      },
+      {
+        "forumTitle": {
+          "value": "Wall of Gustavo Arbelaez",
+          "type": "literal"
+        },
+        "forumId": {
+          "value": "137438953510",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

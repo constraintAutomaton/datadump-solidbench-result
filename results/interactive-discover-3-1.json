@@ -1,0 +1,807 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "messages"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "tagName": {
+          "value": "Rupert_Murdoch",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "3",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Meryl_Streep",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Manuel_Noriega",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "George_Frideric_Handel",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Freddie_Mercury",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Eleanor_Roosevelt",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Woodrow_Wilson",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Jackie_Chan",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Vladimir_Putin",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "2_Become_1",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Franz_Schubert",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "I_Can_See_for_Miles",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Jean-Baptiste_Lamarck",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Franklin_D._Roosevelt",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Cold,_Cold_Heart",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Jean-Paul_Sartre",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Martin_Luther",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Saint_Joseph",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Ulysses_S._Grant",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "I_Write_the_Songs",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "R._Kelly",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Organization_for_Security_and_Co-operation_in_Europe",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Nigeria",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Henry_VIII_of_England",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Round_Here",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Kurt_Vonnegut",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Dancing_in_the_Street",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Hungarian_Soviet_Republic",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "The_Carnival",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Good_Vibrations",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Jimmy_Carter",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Friedrich_Schiller",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Steven_Spielberg",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Argentina",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Dark_Passion_Play",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "East_Timor",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "John_Coltrane",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Johnny_Depp",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Dirrty",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Cameroon",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Plácido_Domingo",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Over_the_Rainbow",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Peter_the_Great",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Jane_Austen",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "George_Clooney",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Reba_McEntire",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Gilbert_du_Motier,_marquis_de_Lafayette",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Anguilla",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Georges_Bizet",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "To_Be_with_You",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Tina_Turner",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Napoleon",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Ibn_Khaldun",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Ferdinand_II_of_Aragon",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "William_Randolph_Hearst",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "James_Buchanan",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Life_in_Technicolor_II",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Let_It_Whip",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Frizzle_Fry",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "The_Soul_Cages",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Rain_Tree_Crow",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "John_Rhys-Davies",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Jack_Nicholson",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "German_military_administration_in_occupied_France_during_World_War_II",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Evo_Morales",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Gioachino_Rossini",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Rock_Your_Baby",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Anne_Murray_Duets:_Friends_&_Legends",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Bob_Dylan",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Jacques_Chirac",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Barack_Obama",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "tagName": {
+          "value": "Leona_Lewis",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Bulgaria, man rule for nearly five hundred years. About Back to Now, ee i",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Gaetano Donizetti, lisir d'amore (1832About John F. Kennedy, ensive ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Victor Hugo,  passionate supporter of republicanism, and his work touches upon most of the poAbout George H. W. Bush, Walker Bush. Following the attack o",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Adolf Hitler, tical pamphlets and aAbout Salvador Dalí, e descended from the ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Jacques Chirac,  completing his studies of thAbout Mustafa Kemal Atatürk, then",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Jacques Chirac, unishment for crime About Mustafa Kemal Atatürk, War I",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Rupert Murdoch, faces police and gAbout Friedrich Nietzsche, ys completely cont",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Rupert Murdoch, ed allegations that hiAbout Friedrich Nietzsche, prevalent and ra",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Kurt Aland,  Bibelgesellschaft and theAbout Run This Town, st. It was ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Rupert Murdoch, ces police and govAbout Adolf Hitler, pamphlets and antiAbout He",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000002199023256347/profile/card#me",
+          "type": "uri"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

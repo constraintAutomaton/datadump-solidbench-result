@@ -1,0 +1,70 @@
+{
+  "head": {
+    "vars": [
+      "locationName",
+      "messages"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationName": {
+          "value": "Sri_Lanka",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "56",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "United_States",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Malaysia",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Estonia",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Kenya",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

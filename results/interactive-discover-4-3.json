@@ -1,0 +1,48 @@
+{
+  "head": {
+    "vars": [
+      "locationName",
+      "messages"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "locationName": {
+          "value": "India",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "29",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Slovenia",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "locationName": {
+          "value": "Afghanistan",
+          "type": "literal"
+        },
+        "messages": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

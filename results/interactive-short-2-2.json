@@ -1,0 +1,360 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageId": {
+          "value": "1030792244478",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "1030792244472",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Adam Smith, opher and a pioneer of political economy. One of the key figures of the ScotAbout James A. Garfield, os was James' father's half bro",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-08-02T13:44:21.829Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "10995116278468",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Andersson",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Anders",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158534227",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158534223",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Mohandas Karamchand Gandhi, on. Gandhi ledAbout Igor Stravinsky,  the music of About Nas,  Middle Age",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-18T01:29:27.680Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256437",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Engel",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Rudolf",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "343597487555",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "343597487551",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Yuvan Shankar Raja, ted the era of reAbout Barack Obama, c primary for the",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-23T15:01:19.740Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256437",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Engel",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Rudolf",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "481036440719",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "481036440717",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Monaco, ch: Grand Prix de Monaco) is a Formula OneAbout The Gambia, anks to ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-04-30T10:53:40.607Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256437",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Engel",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Rudolf",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "549755907365",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "549755907357",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Malaysia,  the military of Malaysia, consists of three branches; the Royal Malaysian",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-06-27T23:33:29.939Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "10995116278468",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Andersson",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Anders",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "687194860822",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "687194860812",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Schaumburg-Lippe, n Germany, located in the present day staAbout Rubber Ba",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-10-23T10:35:49.657Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "10995116278468",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Andersson",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Anders",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "755914526334",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "755914526327",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Charles Gounod, s-François Gounod (17 June 1818 – 17 OctoberAbout LL Cool J,  an",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-11-09T17:59:40.895Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "19791209301592",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Kaminski",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Michal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "824634003310",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "824634003303",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Michel Foucault, l history ofAbout Alexander Pope, ouplet, he iAbout Do",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-02-22T02:19:33.461Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "19791209301592",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Kaminski",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Michal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353421609",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "893353421604",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About David Foster, g, was published in About Béla Bartók, al study of folk ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-30T13:21:30.551Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "26388279067534",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Dom Pedro II",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Emperor of Brazil",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353479737",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "893353479732",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Heavyweight Champion of the World,  the top ten debut single by Reverend and The Makers, as well as the first sin",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-03-26T17:27:06.929Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "19791209301592",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Kaminski",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Michal",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

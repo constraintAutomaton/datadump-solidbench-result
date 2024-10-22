@@ -1,0 +1,115 @@
+{
+  "head": {
+    "vars": [
+      "creator",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Dizzy Gillespie, stead, and it was not until Jon Faddis'sAbout Robert Joh",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Deep Purple in Rock, album and the first with the classic Mk II lineup. Rod Evans (voca",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Marie Antoinette,  France, she subsequently became DauphinAbout Bermuda,",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Luiz Inácio Lula da Silva, uccessful politician of his time. In OAbou",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Max Mirnyi, ch Open; and mixed doubles in About Venus Williams, er Serena William",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Confucius, nd in traditional interpretatiAbout Reba McEntire, selling country artis",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Confucius, d in favor of the Legalists during the Qin About Traveling Wilburys ",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Niccolò Machiavelli,  Renaissance. A founder of modern political scie",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Wolfgang Amadeus Mozart,  on keyboard and violAbout Charles Lindbergh, tion's",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Nero,  December 37 – 9About America the Beautiful, e to time it hasAbout Pet Sounds,",
+          "type": "literal"
+        },
+        "creator": {
+          "value": "http://localhost:3000/pods/00000015393162790400/profile/card#me",
+          "type": "uri"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

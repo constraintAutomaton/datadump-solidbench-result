@@ -1,0 +1,360 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageContent",
+      "messageCreationDate",
+      "originalPostId",
+      "originalPostAuthorId",
+      "originalPostAuthorFirstName",
+      "originalPostAuthorLastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageId": {
+          "value": "137439289892",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "137439289890",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Every Day Is Exactly the Same, the film's most recognizable song. The raAb",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-06-23T01:23:45.087Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "137439290782",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "137439290770",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Humayun, lly regained an even larger oAbout James Cook, iously achieved. As he",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-05-08T18:17:07.421Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158769199",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158769194",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Stephen Harper, ry West. HAbout Sammy Sosa, cago Cubs About Bill Cosby, 1976, Cosb",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-26T00:31:14.744Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "206158769200",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "206158769194",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Stephen Harper, found the CabinAbout Bertrand Russell, er, logician, mAbout My ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-26T21:17:24.711Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "274878243866",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "274878243865",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Humayun, 5–1556. Like his father, Babur, he lost his About Reba McEntire,  more t",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-10-28T23:47:42.752Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "274878244233",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "274878244221",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Hurdy Gurdy Man, van, where he asserts that the song ushered in the Celtic rock soun",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2010-10-29T22:07:41.963Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "755914383763",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "755914383762",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Judy Davis, n in the 197About Jim Carrey, two. Known fAbout Martin Luthe",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-12-02T04:07:23.345Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "17592186044425",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Guliyev",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Alim",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353536255",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "893353536252",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About John Milton, d a civil servant About John Rhys-Davies,  of Thieves, Man RAbout S",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-21T03:59:06.101Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256816",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Bose",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "K.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "687194767786",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "687194767786",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Vladimir Putin, ims to have overseAbout Joe Strummer, nto the Rock and RAbout Niandra Lades and Usu",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2011-10-22T18:54:54.382Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "2199023256684",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Rao",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "A.",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792290407",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostId": {
+          "value": "1030792290406",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Judy Davis, ess best known for her roles iAbout Gioachino Rossini, nclude the Ital",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-13T07:55:57.142Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "originalPostAuthorId": {
+          "value": "17592186044425",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "originalPostAuthorLastName": {
+          "value": "Guliyev",
+          "type": "literal"
+        },
+        "originalPostAuthorFirstName": {
+          "value": "Alim",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

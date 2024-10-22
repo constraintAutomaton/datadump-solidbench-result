@@ -1,0 +1,35 @@
+{
+  "head": {
+    "vars": [
+      "firstName",
+      "lastName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "firstName": {
+          "value": "John",
+          "type": "literal"
+        },
+        "lastName": {
+          "value": "Kumar",
+          "type": "literal"
+        }
+      },
+      {
+        "firstName": {
+          "value": "Gustavo",
+          "type": "literal"
+        },
+        "lastName": {
+          "value": "Arbelaez",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}
