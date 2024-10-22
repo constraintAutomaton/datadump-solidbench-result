@@ -1,0 +1,80 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Josip Broz Tito, c and diplomatic policiAbout Rogier Wassen, on three ATP doubles tiAbout Sammy Davis, Jr.,",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430586",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-10T16:58:01.341Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Haile Selassie I, emporaries and historianAbout Herbert Kitchener, 1st Earl Kitchener, -Chief (1902–09) of the Ab",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430594",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-31T02:14:03.337Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Haile Selassie I, onalist viewsAbout Alexandre Dumas, ist. He was tAbout Amitabh Bachchan,  career spannAb",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430610",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-30T02:05:03.337Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Haile Selassie I, ong the nobles (mekwannAbout George Orwell, everal of his neologismAbout Vatican City, ",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430625",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-29T21:49:18.337Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

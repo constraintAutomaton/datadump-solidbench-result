@@ -3658,6 +3658,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"commander@npm:^12.1.0":
+  version: 12.1.0
+  resolution: "commander@npm:12.1.0"
+  checksum: 10c0/6e1996680c083b3b897bfc1cfe1c58dfbcd9842fd43e1aaf8a795fbc237f65efcc860a3ef457b318e73f29a4f4a28f6403c3d653d021d960e4632dd45bde54a9
+  languageName: node
+  linkType: hard
+
 "componentsjs@npm:^5.0.1, componentsjs@npm:^5.3.2, componentsjs@npm:^5.4.2":
   version: 5.5.1
   resolution: "componentsjs@npm:5.5.1"
@@ -3813,6 +3820,18 @@ __metadata:
   checksum: 10c0/206aef102c10d532a31c7d85e6b1b0e53c7cb8346037eb9f23e0bd7369788960d8f2431639ea9f62e34ddf54d0182dfb345691c11c666802324f25c51dba79bc
   languageName: node
   linkType: hard
+
+"datadump-solidbench-result@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "datadump-solidbench-result@workspace:."
+  dependencies:
+    commander: "npm:^12.1.0"
+    dockerode: "npm:^4.0.2"
+    markdown-table: "npm:^3.0.3"
+    solidbench: "npm:^2.0.0"
+    stream-to-string: "npm:^1.2.1"
+  languageName: unknown
+  linkType: soft
 
 "debug@npm:4, debug@npm:^4.1.1, debug@npm:^4.3.2, debug@npm:^4.3.4, debug@npm:^4.3.5":
   version: 4.3.7
@@ -4993,6 +5012,13 @@ __metadata:
     promise-retry: "npm:^2.0.1"
     ssri: "npm:^10.0.0"
   checksum: 10c0/df5f4dbb6d98153b751bccf4dc4cc500de85a96a9331db9805596c46aa9f99d9555983954e6c1266d9f981ae37a9e4647f42b9a4bb5466f867f4012e582c9e7e
+  languageName: node
+  linkType: hard
+
+"markdown-table@npm:^3.0.3":
+  version: 3.0.3
+  resolution: "markdown-table@npm:3.0.3"
+  checksum: 10c0/47433a3f31e4637a184e38e873ab1d2fadfb0106a683d466fec329e99a2d8dfa09f091fa42202c6f13ec94aef0199f449a684b28042c636f2edbc1b7e1811dcd
   languageName: node
   linkType: hard
 
@@ -6515,16 +6541,6 @@ __metadata:
   checksum: 10c0/a5eca3eb50bc11552d453488344e6507156b9193efd7635e98e867fab275d527af53d8866e2370cd09dfe74378a18111622ace35af6a608e5223a7d27fe99537
   languageName: node
   linkType: hard
-
-"test_datadump@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "test_datadump@workspace:."
-  dependencies:
-    dockerode: "npm:^4.0.2"
-    solidbench: "npm:^2.0.0"
-    stream-to-string: "npm:^1.2.1"
-  languageName: unknown
-  linkType: soft
 
 "text-hex@npm:1.0.x":
   version: 1.0.0

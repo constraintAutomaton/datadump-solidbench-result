@@ -1,0 +1,752 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Adam Smith, opher and a pioneer of political economy. One of the key figures of the ScotAbout James A. Garfield, os was James' father's half bro",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "1030792244478",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-08-02T13:44:21.829Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Mohandas Karamchand Gandhi, on. Gandhi ledAbout Igor Stravinsky,  the music of About Nas,  Middle Age",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158534227",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-18T01:29:27.680Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Yuvan Shankar Raja, ted the era of reAbout Barack Obama, c primary for the",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487555",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-23T15:01:19.740Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Monaco, ch: Grand Prix de Monaco) is a Formula OneAbout The Gambia, anks to ",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "481036440719",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-04-30T10:53:40.607Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Malaysia,  the military of Malaysia, consists of three branches; the Royal Malaysian",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "549755907365",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-06-27T23:33:29.939Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Schaumburg-Lippe, n Germany, located in the present day staAbout Rubber Ba",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "687194860822",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-10-23T10:35:49.657Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Charles Gounod, s-François Gounod (17 June 1818 – 17 OctoberAbout LL Cool J,  an",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "755914526334",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-11-09T17:59:40.895Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Michel Foucault, l history ofAbout Alexander Pope, ouplet, he iAbout Do",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "824634003310",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-02-22T02:19:33.461Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About David Foster, g, was published in About Béla Bartók, al study of folk ",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "893353421609",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-30T13:21:30.551Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Heavyweight Champion of the World,  the top ten debut single by Reverend and The Makers, as well as the first sin",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "893353479737",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-03-26T17:27:06.929Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Adolf Hitler, istrust for maiAbout Barry Goldwater, ent Democrat LyA",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "962072914461",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-02T12:30:00.494Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "The Emirate of Sicily was an Islamic state on the island of Sicily, which existed f",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "962072998145",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-05-30T09:07:47.938Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Josip Broz Tito, c and diplomatic policiAbout Rogier Wassen, on three ATP doubles tiAbout Sammy Davis, Jr.,",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430586",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-10T16:58:01.341Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Haile Selassie I, emporaries and historianAbout Herbert Kitchener, 1st Earl Kitchener, -Chief (1902–09) of the Ab",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430594",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-31T02:14:03.337Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Haile Selassie I, onalist viewsAbout Alexandre Dumas, ist. He was tAbout Amitabh Bachchan,  career spannAb",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430610",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-30T02:05:03.337Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Haile Selassie I, ong the nobles (mekwannAbout George Orwell, everal of his neologismAbout Vatican City, ",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430625",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-29T21:49:18.337Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "I see",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158533760",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-19T12:05:02.804Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "fine",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158533762",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-19T13:07:11.272Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "right",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158533767",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-19T17:18:26.827Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158534112",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-19T08:42:14.830Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "yes",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158534224",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-08-18T07:04:45.364Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "cool",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "274878010710",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-10-05T15:40:00.847Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "ok",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "274878010933",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-10-05T02:15:13.854Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "I see",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "274878011002",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-10-05T21:10:22.073Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487213",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-12-29T20:08:34.306Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "I see",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487399",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-24T02:06:30.397Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Gustav Mahler, s. NevertheAbout Yuvan Shankar Raja, a worked onAbout P",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487404",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-24T02:11:24.983Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "LOL",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487464",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-23T18:35:53.948Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Celine Dion,  of all time. According to Sony Music EnteAbout You Make Me Fee",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487493",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-23T06:35:25.307Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "good",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487500",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-23T23:49:17.046Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "I see",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487511",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-24T13:59:31.476Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "great",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "343597487513",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-11-23T13:02:11.676Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "fine",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "549755907257",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-05-17T18:23:16.782Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "549755907371",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-06-28T05:11:34.751Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "great",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "687194860821",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-10-23T09:28:23.547Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "LOL",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "755914337593",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-12-03T02:32:38.702Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "755914526239",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-11-09T14:46:49.737Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "duh",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "824633814361",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-02-14T17:45:52.064Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "yes",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "824633814368",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-02-15T05:28:10.133Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "duh",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "824634002899",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-02-18T02:03:55.073Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "fine",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "824634002992",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-01-18T10:36:50.578Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "I see",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "824634003200",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-02-22T03:38:42.210Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "I see",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "893353437763",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-17T13:30:42.432Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "962072914493",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-06-09T09:29:16.719Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "right",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "962072998140",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-05-30T14:53:30.135Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "thx",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "962072998232",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-06-25T07:20:25.187Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

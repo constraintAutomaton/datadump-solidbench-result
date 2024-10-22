@@ -1,0 +1,144 @@
+{
+  "head": {
+    "vars": [
+      "messageId",
+      "messageCreationDate",
+      "messageContent"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageContent": {
+          "value": "About Pamela Anderson, or her roles on the television series Home Improvement, Baywatch, and ",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430763",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-25T01:39:42.720Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Sammy Sosa, Dominican forAbout Sylvester Stallone, um. Stallone'About Norway, ",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430773",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-25T09:14:43.654Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Sammy Sosa, career home run to become tAbout Horatio Nelson, 1st Viscount Nelson, e of his uncle, Maurice SucAbout Norway, strative subdivisions on twAbout South African Republi",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430774",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-25T22:25:58.654Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About William Lyon Mackenzie King, derstandingAbout Sammy Sosa,  achieved nAbout Dante Alighieri, ary theorisAbout Use S",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430787",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-25T13:23:43.654Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Pamela Anderson, elevision series Home Improvement, Baywatch, and V.I.P. She was chosen as a Playmate",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "206158430764",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2010-07-27T05:03:14.834Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Henri Matisse, on in French About Martin Luther, in the advancAbout Tom Gehrels, is ",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "412316860983",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-02-03T14:33:20.328Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Pamela Anderson, amela Anderson Lee (or Pamela Lee) after marryAbout C. S. Lewis, man",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "618475291181",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2011-08-30T00:51:38.604Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      },
+      {
+        "messageContent": {
+          "value": "About Pamela Anderson, ebruary 1990. For a time, she was known as PamelaAbout Alexander the Grea",
+          "type": "literal"
+        },
+        "messageId": {
+          "value": "824633721378",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageCreationDate": {
+          "value": "2012-03-03T06:30:32.844Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}
