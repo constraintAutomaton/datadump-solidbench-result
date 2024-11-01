@@ -471,6 +471,7 @@
         "outputFormat": "application/n-quads",
         "fileExtension": ".nq",
         "generateIndexes": true,
+        "log":true,
         "removeSourceFiles": false,
         "conversionConcurrency": 1,
         "iriToPath": {

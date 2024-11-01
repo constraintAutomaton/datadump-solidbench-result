@@ -7,13 +7,13 @@ const program = new Command();
 program
   .name('datadump-solidbench-result')
 
-  .requiredOption('-q, --queries <string...>', 'query to execute')
+  .option('-q, --queries <string...>', 'query to execute')
 
   .parse(process.argv);
 
 const options = program.opts();
 
-const queriesToExecute = new Set(options.queries);
+const queriesToExecute = options.queries === undefined ? undefined : new Set(options.queries);
 
 let docker = new Docker();
 

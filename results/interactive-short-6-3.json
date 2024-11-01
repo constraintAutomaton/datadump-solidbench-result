@@ -12,24 +12,24 @@
     "bindings": [
       {
         "moderatorId": {
-          "value": "4398046512573",
+          "value": "8796093023907",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
         "moderatorLastName": {
-          "value": "Irama",
+          "value": "Yamada",
           "type": "literal"
         },
         "moderatorFirstName": {
-          "value": "Eko Maulana",
+          "value": "Hiroshi",
           "type": "literal"
         },
         "forumTitle": {
-          "value": "Wall of Eko Maulana Irama",
+          "value": "Wall of Hiroshi Yamada",
           "type": "literal"
         },
         "forumId": {
-          "value": "137438958676",
+          "value": "274877913607",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         }

@@ -9,11 +9,11 @@
     "bindings": [
       {
         "messageContent": {
-          "value": "roflol",
+          "value": "About Ivan Ljubičić, ly on his serve, About Keith Richards, ling Stones. RollAbout ",
           "type": "literal"
         },
         "messageCreationDate": {
-          "value": "2012-01-28T19:42:33.794Z",
+          "value": "2012-03-21T12:28:03.902Z",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         }

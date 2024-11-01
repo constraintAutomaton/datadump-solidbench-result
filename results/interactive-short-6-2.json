@@ -12,24 +12,24 @@
     "bindings": [
       {
         "moderatorId": {
-          "value": "15393162789228",
+          "value": "4398046511628",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
         "moderatorLastName": {
-          "value": "Carr",
+          "value": "David",
           "type": "literal"
         },
         "moderatorFirstName": {
-          "value": "Ashley",
+          "value": "Dumitru",
           "type": "literal"
         },
         "forumTitle": {
-          "value": "Wall of Ashley Carr",
+          "value": "Album 9 of Dumitru David",
           "type": "literal"
         },
         "forumId": {
-          "value": "481036342518",
+          "value": "687194769073",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         }

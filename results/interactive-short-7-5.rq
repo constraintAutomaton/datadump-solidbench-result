@@ -2,10 +2,10 @@ PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX xsd: <http://www.w3.org/2001/XMLSchema#>
 PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
 SELECT ?commentId ?commentContent ?commentCreationDate ?replyAuthorId ?replyAuthorFirstName ?replyAuthorLastName ?replyAuthorKnowsOriginalMessageAuthor WHERE {
-  <http://localhost:3000/pods/00000013194139534154/comments#893353323079> snvoc:id ?messageId;
+  <http://localhost:3000/pods/00000017592186045551/comments/2012-02-22#824634034979> snvoc:id ?messageId;
     snvoc:hasCreator ?messageCreator.
   ?messageCreator snvoc:id ?messageCreatorId.
-  ?comment snvoc:replyOf <http://localhost:3000/pods/00000013194139534154/comments#893353323079>;
+  ?comment snvoc:replyOf <http://localhost:3000/pods/00000017592186045551/comments/2012-02-22#824634034979>;
     rdf:type snvoc:Comment;
     snvoc:id ?commentId;
     snvoc:content ?commentContent;

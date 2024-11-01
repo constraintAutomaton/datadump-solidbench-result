@@ -11,42 +11,7 @@
     ]
   },
   "results": {
-    "bindings": [
-      {
-        "replyAuthorFirstName": {
-          "value": "Mohammad Ali",
-          "type": "literal"
-        },
-        "commentCreationDate": {
-          "value": "2012-03-21T12:28:38.997Z",
-          "type": "literal",
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
-        },
-        "replyAuthorKnowsOriginalMessageAuthor": {
-          "value": "false",
-          "type": "literal",
-          "datatype": "http://www.w3.org/2001/XMLSchema#boolean"
-        },
-        "replyAuthorId": {
-          "value": "15393162789746",
-          "type": "literal",
-          "datatype": "http://www.w3.org/2001/XMLSchema#long"
-        },
-        "replyAuthorLastName": {
-          "value": "Hosseini",
-          "type": "literal"
-        },
-        "commentContent": {
-          "value": "ok",
-          "type": "literal"
-        },
-        "commentId": {
-          "value": "893353323090",
-          "type": "literal",
-          "datatype": "http://www.w3.org/2001/XMLSchema#long"
-        }
-      }
-    ]
+    "bindings": []
   },
   "metadata": {
     "httpRequests": 0

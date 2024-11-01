@@ -1,15 +1,19 @@
 {
   "name": "datadump-solidbench-result",
-  "packageManager": "yarn@4.1.1",
+  "packageManager": "yarn@4.5.1",
   "dependencies": {
     "commander": "^12.1.0",
+    "componentsjs": "^6.3.0",
     "dockerode": "^4.0.2",
     "markdown-table": "^3.0.3",
+    "rdf-dataset-fragmenter": "^2.8.0",
+    "rdf-parse": "^2.3.3",
     "solidbench": "^2.0.0",
     "stream-to-string": "^1.2.1"
   },
   "scripts": {
-    "solidbench-generate": "node --max-old-space-size=16000 ./node_modules/solidbench/bin/solidbench generate -f ./config-fragmenter.json",
+    "generate":"yarn node --max-old-space-size=16000 index.mjs",
+    "solidbench-generate": "yarn node --max-old-space-size=16000 ./node_modules/.bin/solidbench generate --fragmentConfig ./config-fragmenter.json",
     "clean": "rm -rf out-enhanced out-fragments out-queries out-snb out-validate out-validate-params/"
   }
 }

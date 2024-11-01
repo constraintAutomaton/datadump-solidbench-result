@@ -12,24 +12,24 @@
     "bindings": [
       {
         "moderatorId": {
-          "value": "15393162789907",
+          "value": "4398046511442",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
         "moderatorLastName": {
-          "value": "Becker",
+          "value": "Anwar",
           "type": "literal"
         },
         "moderatorFirstName": {
-          "value": "Carl",
+          "value": "Abdul Haris",
           "type": "literal"
         },
         "forumTitle": {
-          "value": "Wall of Carl Becker",
+          "value": "Group for Guy_Forget in Banda_Aceh",
           "type": "literal"
         },
         "forumId": {
-          "value": "481036351344",
+          "value": "412316876157",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         }

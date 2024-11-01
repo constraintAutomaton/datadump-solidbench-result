@@ -1,7 +1,7 @@
 import { join } from 'node:path';
 import { readdirSync, readFileSync } from 'node:fs';
 
-const QUERY_FOLDER = "./out-queries";
+const QUERY_FOLDER = "./queries";
 
 export function getQueries(queriesToExecute) {
     const fileList = readdirSync(QUERY_FOLDER);

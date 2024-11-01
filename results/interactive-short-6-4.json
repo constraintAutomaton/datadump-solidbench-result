@@ -12,24 +12,24 @@
     "bindings": [
       {
         "moderatorId": {
-          "value": "4398046511367",
+          "value": "21990232555586",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
         "moderatorLastName": {
-          "value": "Singh",
+          "value": "Khan",
           "type": "literal"
         },
         "moderatorFirstName": {
-          "value": "Allu",
+          "value": "Deepak",
           "type": "literal"
         },
         "forumTitle": {
-          "value": "Album 22 of Allu Singh",
+          "value": "Wall of Deepak Khan",
           "type": "literal"
         },
         "forumId": {
-          "value": "687194781509",
+          "value": "687194771348",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         }

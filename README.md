@@ -16,24 +16,13 @@ Generate the benchmark data with
 ```sh
 yarn run solidbench-generate
 ```
+There may be warning and `component.js` errors however, if the `out-fragments` folder contains `./out-fragments/http/localhost_3000/datadump.hdt`,
+`./out-fragments/http/localhost_3000/datadump.hdt.index.v1-1` and `./out-fragments/http/localhost_3000/datadump.nq` the benchmark was generated correctly.
+
 execute the queries and record the results with
 
 ```sh
 yarn node index.mjs
 ```
 
-Currently not able to perform the queries
-
-```js
-[
-  { query: 'interactive-complex-1.sparql', v: 1 },
-  { query: 'interactive-complex-1.sparql', v: 2 },
-  { query: 'interactive-complex-1.sparql', v: 3 },
-  { query: 'interactive-complex-1.sparql', v: 4 },
-  { query: 'interactive-complex-7.sparql', v: 0 },
-  { query: 'interactive-complex-7.sparql', v: 1 },
-  { query: 'interactive-complex-7.sparql', v: 2 },
-  { query: 'interactive-complex-7.sparql', v: 3 },
-  { query: 'interactive-complex-7.sparql', v: 4 }
-]
-```
+The query results are located at `./results` or [online](./results)

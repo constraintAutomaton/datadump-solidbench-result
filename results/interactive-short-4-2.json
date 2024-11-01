@@ -9,11 +9,11 @@
     "bindings": [
       {
         "messageContent": {
-          "value": "photo687194801053.jpg",
+          "value": "duh",
           "type": "literal"
         },
         "messageCreationDate": {
-          "value": "2011-10-21T18:13:04.785Z",
+          "value": "2011-10-16T01:28:59.770Z",
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         }

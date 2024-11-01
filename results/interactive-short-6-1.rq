@@ -1,12 +1,12 @@
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
 PREFIX snvoc: <http://localhost:3000/www.ldbc.eu/ldbc_socialnet/1.0/vocabulary/>
 SELECT ?forumId ?forumTitle ?moderatorId ?moderatorFirstName ?moderatorLastName WHERE {
-  <http://localhost:3000/pods/00000026388279068034/posts/India#1030792516495> snvoc:id ?messageId.
+  <http://localhost:3000/pods/00000015393162789111/posts#893353506423> snvoc:id ?messageId.
   OPTIONAL {
-    <http://localhost:3000/pods/00000026388279068034/posts/India#1030792516495> (snvoc:replyOf*) ?originalPostInner.
+    <http://localhost:3000/pods/00000015393162789111/posts#893353506423> (snvoc:replyOf*) ?originalPostInner.
     ?originalPostInner rdf:type snvoc:Post.
   }
-  BIND(COALESCE(?originalPostInner, <http://localhost:3000/pods/00000026388279068034/posts/India#1030792516495>) AS ?originalPost)
+  BIND(COALESCE(?originalPostInner, <http://localhost:3000/pods/00000015393162789111/posts#893353506423>) AS ?originalPost)
   ?forum snvoc:containerOf ?originalPost;
     snvoc:id ?forumId;
     snvoc:title ?forumTitle;
