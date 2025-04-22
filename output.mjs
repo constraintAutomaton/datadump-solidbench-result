@@ -32,7 +32,7 @@ export function generateSummaryTable(queryMetaResult) {
     for (const [key, variances] of Object.entries(queryMetaResult)) {
         for (const [i, variance] of Object.entries(variances)) {
             table.push(
-                [`${key}-${Number(i) + 1}`, variance['error'] === null ? 'yes' : 'no', variance['results'], !variance['time_seconds'] ? variance['time_seconds'].toFixed(4) : "-"]
+                [`${key}-${Number(i) + 1}`, variance['error'] === null ? 'yes' : 'no', variance['results'], variance['time_seconds'] ? variance['time_seconds'].toFixed(4) : "-"]
             );
         }
     }
