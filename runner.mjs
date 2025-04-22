@@ -2,7 +2,7 @@ import { PassThrough } from 'node:stream';
 import streamToString from 'stream-to-string';
 import { resolve } from 'node:path';
 
-const COMUNICA_HDT_IMAGE = "comunica/query-sparql-hdt:latest";
+const COMUNICA_HDT_IMAGE = "comunica/query-sparql-hdt:dev";
 
 export async function getImage(docker) {
     function onProgress(event) {
