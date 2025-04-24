@@ -45,11 +45,11 @@
 | interactive-complex-6-3  | yes     | 10      | 10.9277    |
 | interactive-complex-6-4  | yes     | 10      | 7.3797     |
 | interactive-complex-6-5  | yes     | 10      | 7.5246     |
-| interactive-complex-7-1  | no      |         | -          |
-| interactive-complex-7-2  | no      |         | -          |
-| interactive-complex-7-3  | no      |         | -          |
-| interactive-complex-7-4  | no      |         | -          |
-| interactive-complex-7-5  | no      |         | -          |
+| interactive-complex-7-1  | no      | -       | -          |
+| interactive-complex-7-2  | no      | -       | -          |
+| interactive-complex-7-3  | no      | -       | -          |
+| interactive-complex-7-4  | no      | -       | -          |
+| interactive-complex-7-5  | no      | -       | -          |
 | interactive-complex-8-1  | yes     | 20      | 275.7513   |
 | interactive-complex-8-2  | yes     | 20      | 256.0455   |
 | interactive-complex-8-3  | yes     | 20      | 5.3690     |
