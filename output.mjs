@@ -2,7 +2,7 @@ import { join } from 'node:path';
 import { writeFileSync } from 'node:fs';
 import { markdownTable } from 'markdown-table'
 
-const QUERY_RESULT_FOLDER = "./results/";
+export const QUERY_RESULT_FOLDER = "./results/";
 
 export function resultGroupToFile(queryResultObject, queryMetaResult) {
     _resultGroupToFile(queryResultObject, false);

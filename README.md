@@ -26,3 +26,9 @@ yarn node index.mjs
 ```
 
 The query results are located at `./results` or [online](./results)
+
+To generate a summary table of the execution time run:
+
+```sh
+yarn node analysis.mjs
+```
