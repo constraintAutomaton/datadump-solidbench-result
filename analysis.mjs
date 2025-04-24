@@ -58,8 +58,11 @@ for (const [key, values] of queryMap) {
     const avg = (values.reduce((a, b) => a + b) / values.length).toFixed(0);
     const max = Math.max(...values).toFixed(0);
     const min = Math.min(...values).toFixed(0);
-    const row = [key, avg, max, min];
-    rows.push(row);
+    if(avg === "0"){
+        rows.push([key, "-", "-", "-"]);
+    }else{
+        rows.push([key, avg, max, min]);
+    }
 }
 
 const summaryTable = markdownTable(rows);

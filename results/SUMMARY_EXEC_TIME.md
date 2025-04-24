@@ -6,7 +6,7 @@
 | interactive-complex-4  | 106     | 194     | 2       |
 | interactive-complex-5  | 6908    | 7525    | 6324    |
 | interactive-complex-6  | 8       | 11      | 6       |
-| interactive-complex-7  | 0       | 0       | 0       |
+| interactive-complex-7  | -       | -       | -       |
 | interactive-complex-8  | 110     | 276     | 5       |
 | interactive-complex-9  | 15625   | 16723   | 14851   |
 | interactive-complex-10 | 113     | 121     | 102     |
