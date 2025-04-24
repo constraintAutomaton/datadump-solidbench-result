@@ -1,0 +1,125 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Andrey_Kolmogorov",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "ATLiens",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Bertolt_Brecht",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Brazil",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Dennis_Hopper",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Edgar_Rice_Burroughs",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Great_Moravia",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Hassan_II_of_Morocco",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Jimmy_Page",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Julia_Gillard",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

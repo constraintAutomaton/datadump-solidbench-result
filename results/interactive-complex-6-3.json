@@ -1,0 +1,125 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "value": "4",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Augustine_of_Hippo",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Genghis_Khan",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Imelda_Marcos",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "A_Love_Supreme",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Alexander_Downer",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Arnold_Schwarzenegger",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Benjamin_Britten",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Bruce_Lee",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Comes_a_Time",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Condoleezza_Rice",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

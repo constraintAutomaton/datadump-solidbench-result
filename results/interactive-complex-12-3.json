@@ -1,0 +1,42 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "tagNames",
+      "replyCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "replyCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "personFirstName": {
+          "value": "Ali",
+          "type": "literal"
+        },
+        "tagNames": {
+          "value": "Hannibal",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "987",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Diori",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

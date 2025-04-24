@@ -1,0 +1,299 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "commonInterestScore",
+      "personGender",
+      "personCityName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "personFirstName": {
+          "value": "Jean",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Buea",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "26388279068275",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Berty",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "11",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Boy",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Cebu_City",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322854",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Gonzales",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Jie",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Erenhot",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "10995116278300",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Li",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-5",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Moses",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Dushanbe",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "15393162790168",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Znaimer",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-5",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Zheng",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Ankang",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "26388279067734",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Li",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "female",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-5",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Konstantinos",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Kalamata",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "8796093023550",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Angello",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "female",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-8",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Yang",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Aral",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "19791209301664",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Li",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-11",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Javed",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Major_Cities",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "32985348833438",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Khan",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-11",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Asyifa",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Manado",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "4398046512696",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Anwar",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-17",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Jie",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Ankang",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "21990232555940",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Li",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-21",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

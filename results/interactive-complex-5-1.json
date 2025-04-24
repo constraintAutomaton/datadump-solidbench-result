@@ -1,0 +1,235 @@
+{
+  "head": {
+    "vars": [
+      "forumTitle",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Arnold_Schwarzenegger in Dehradun",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Samuel_L._Jackson in Tagbilaran",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Lucille_Ball in Dehradun",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Jean-Baptiste_Lamarck in Banda_Aceh",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Lorenz_Hart in Tahoua",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Mahathir_Mohamad in Pedro_Escobedo",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Heinz_Guderian in Dire_Dawa",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Louis_Philippe_I in Padang",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Plutarch in Cagayan_de_Oro",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for William_the_Conqueror in Ürümqi",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Jesus in Tula",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Napoleon in Temuco",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for John_Wesley in La_Punta",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Saddam_Hussein in Kassel",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Benjamin_Disraeli in Pudong",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for David_Lloyd_George in Sampaloc",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Group for Bertolt_Brecht in Moravia",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "0",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Wall of Chen Yang",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "0",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Album 21 of Andrzej Zakrzewski",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "0",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "forumTitle": {
+          "value": "Album 29 of Mehmet Ayhan",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

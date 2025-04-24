@@ -1,0 +1,18 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "commonInterestScore",
+      "personGender",
+      "personCityName"
+    ]
+  },
+  "results": {
+    "bindings": []
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

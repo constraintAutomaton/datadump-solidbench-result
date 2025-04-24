@@ -15,8 +15,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Engel",
+        "firstName": {
+          "value": "Rudolf",
           "type": "literal"
         },
         "personId": {
@@ -24,8 +24,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Rudolf",
+        "lastName": {
+          "value": "Engel",
           "type": "literal"
         }
       },
@@ -35,8 +35,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Andersson",
+        "firstName": {
+          "value": "Anders",
           "type": "literal"
         },
         "personId": {
@@ -44,8 +44,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Anders",
+        "lastName": {
+          "value": "Andersson",
           "type": "literal"
         }
       },
@@ -55,8 +55,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Kaminski",
+        "firstName": {
+          "value": "Michal",
           "type": "literal"
         },
         "personId": {
@@ -64,8 +64,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Michal",
+        "lastName": {
+          "value": "Kaminski",
           "type": "literal"
         }
       },
@@ -75,8 +75,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Dom Pedro II",
+        "firstName": {
+          "value": "Emperor of Brazil",
           "type": "literal"
         },
         "personId": {
@@ -84,8 +84,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Emperor of Brazil",
+        "lastName": {
+          "value": "Dom Pedro II",
           "type": "literal"
         }
       },
@@ -95,8 +95,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Oliveira",
+        "firstName": {
+          "value": "Joao",
           "type": "literal"
         },
         "personId": {
@@ -104,8 +104,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Joao",
+        "lastName": {
+          "value": "Oliveira",
           "type": "literal"
         }
       },
@@ -115,8 +115,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Hleb",
+        "firstName": {
+          "value": "Alexander",
           "type": "literal"
         },
         "personId": {
@@ -124,8 +124,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Alexander",
+        "lastName": {
+          "value": "Hleb",
           "type": "literal"
         }
       },
@@ -135,8 +135,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Hoffmann",
+        "firstName": {
+          "value": "Alfred",
           "type": "literal"
         },
         "personId": {
@@ -144,8 +144,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Alfred",
+        "lastName": {
+          "value": "Hoffmann",
           "type": "literal"
         }
       }

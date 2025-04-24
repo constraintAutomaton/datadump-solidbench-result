@@ -1,0 +1,125 @@
+{
+  "head": {
+    "vars": [
+      "tagName",
+      "postCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "postCount": {
+          "value": "4",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "David_Foster",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Muammar_Gaddafi",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Robert_John_Mutt_Lange",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Alfred_the_Great",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Andre_Agassi",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Bangladesh",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Clark_Gable",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Diana,_Princess_of_Wales",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Estonia",
+          "type": "literal"
+        }
+      },
+      {
+        "postCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "tagName": {
+          "value": "Hugo_Chávez",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

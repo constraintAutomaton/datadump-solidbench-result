@@ -1,0 +1,599 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "messageId",
+      "messageContent",
+      "messageCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageId": {
+          "value": "1030792498380",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Tom",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "15393162790096",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Marc Gicquel, sional maleAbout Joan Baez, m in the fiAbout Eddie Murphy, played ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-25T20:22:06.985Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Brown",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792302620",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Mikhail",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "26388279067426",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "yes",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-25T14:22:06.518Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Popov",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792302621",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Michael",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322865",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Marc Gicquel, layer from France. HeAbout Pakistan,  the strategically imAbout Belarus, d Duchy of Lithuania,About Benin",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-25T14:20:07.890Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Brown",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792346749",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Jorge",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "4398046512201",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "maybe",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-25T13:12:44.785Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Arango",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792358892",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Luis",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "6597069767851",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Adolf Hitler, ny lost the About George Frideric Handel, d having livAbo",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-25T12:35:27.253Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Rodriguez",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792249531",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Mikhail",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "26388279067426",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "great",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-25T01:32:00.529Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Popov",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792346751",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Jorge",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "4398046512201",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "no",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-24T21:46:42.812Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Arango",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792249527",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Abdullah",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "24189255811254",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About John Curtin, s. General Douglas MacArthur said that Curtin was one of the greatest of the wartime ",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-24T21:34:21.531Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Koksal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792237886",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Michael",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322865",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "duh",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-24T20:43:04.235Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Brown",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792346747",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Jorge",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "4398046512201",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-24T19:34:53.663Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Arango",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792495533",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Ruhollah Khomeini, Ayatollah and is officially known as ImaAbout Mad Abo",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-24T12:46:06.929Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792402932",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Abdullah",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "24189255811254",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "great",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-24T07:24:37.878Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Koksal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792402931",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Abdullah",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "24189255811254",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "ok",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-24T04:36:45.254Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Koksal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792217628",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Jorge",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "4398046512201",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Lleyton Hewitt, ingles, and back-to-back Tennis Masters Cup titles (2001 and 2002). In 2005, TENNIS Mag",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-23T08:38:36.149Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Arango",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792315519",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "no",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-22T23:28:14.343Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792377344",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Zheng",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "26388279067734",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "roflol",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-22T17:12:52.729Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Li",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792361355",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Abdullah",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "24189255811254",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "no",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-22T15:50:22.900Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Koksal",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792315528",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "no",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-22T11:33:04.873Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792314660",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Jorge",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "4398046512201",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "right",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-22T01:13:56.164Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Arango",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "1030792272058",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Hao",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "6597069768236",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "About Some Girls, eli vocalist Ofra Haza. Like the original recording, the r",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-07-21T22:50:48.411Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Li",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

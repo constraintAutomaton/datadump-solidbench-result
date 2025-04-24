@@ -1,0 +1,17 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "organizationName",
+      "organizationWorkFromYear"
+    ]
+  },
+  "results": {
+    "bindings": []
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

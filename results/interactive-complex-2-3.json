@@ -1,0 +1,599 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "messageId",
+      "messageContent",
+      "messageCreationDate"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "messageId": {
+          "value": "893353290227",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Rodrigo",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "2199023256668",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "yes",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T18:45:05.842Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Costa",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491998",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491998.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:22.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491997",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491997.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:21.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491996",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491996.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:20.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491995",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491995.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:19.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491994",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491994.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:18.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491993",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491993.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:17.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491992",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491992.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:16.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491991",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491991.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:15.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491990",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491990.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:14.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491989",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491989.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:13.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491988",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491988.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:12.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491987",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491987.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:11.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491986",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491986.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:10.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491985",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491985.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:09.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491984",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491984.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:08.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353491983",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Andrei",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302322870",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353491983.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T08:10:07.068Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Condariuc",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353290215",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Ali",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "987",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "good",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-09T01:46:39.596Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Diori",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353263206",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Ali",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "987",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353263206.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-08T11:44:33.009Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Diori",
+          "type": "literal"
+        }
+      },
+      {
+        "messageId": {
+          "value": "893353263205",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personFirstName": {
+          "value": "Ali",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "987",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "messageContent": {
+          "value": "photo893353263205.jpg",
+          "type": "literal"
+        },
+        "messageCreationDate": {
+          "value": "2012-04-08T11:44:32.009Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "personLastName": {
+          "value": "Diori",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

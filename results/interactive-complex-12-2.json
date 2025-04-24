@@ -1,0 +1,66 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "tagNames",
+      "replyCount"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "replyCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "personFirstName": {
+          "value": "Roberto",
+          "type": "literal"
+        },
+        "tagNames": {
+          "value": "Joseph_Goebbels",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "1274",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Fernandez",
+          "type": "literal"
+        }
+      },
+      {
+        "replyCount": {
+          "value": "1",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "personFirstName": {
+          "value": "John",
+          "type": "literal"
+        },
+        "tagNames": {
+          "value": "Joseph_Goebbels",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "1490",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Wilson",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

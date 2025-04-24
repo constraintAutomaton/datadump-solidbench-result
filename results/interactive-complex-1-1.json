@@ -1,0 +1,84 @@
+{
+  "head": {
+    "vars": [
+      "friendId",
+      "friendLastName",
+      "distanceFromPerson",
+      "friendBirthday",
+      "friendCreationDate",
+      "friendGender",
+      "friendBrowserUsed",
+      "friendLocationIp",
+      "friendEmails",
+      "friendLanguages",
+      "friendCityName",
+      "friendUniversities",
+      "friendCompanies"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "friendBrowserUsed": {
+          "value": "Internet Explorer",
+          "type": "literal"
+        },
+        "friendUniversities": {
+          "value": "Faculty_of_Health 2005 Birmingham",
+          "type": "literal"
+        },
+        "friendCreationDate": {
+          "value": "2010-12-01T16:23:42.426Z",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "distanceFromPerson": {
+          "value": "2",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        },
+        "friendCityName": {
+          "value": "Bristol",
+          "type": "literal"
+        },
+        "friendEmails": {
+          "value": "Ian10995116279328@gmail.com, Ian10995116279328@gmx.com",
+          "type": "literal"
+        },
+        "friendId": {
+          "value": "10995116279328",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "friendLocationIp": {
+          "value": "199.103.115.201",
+          "type": "literal"
+        },
+        "friendBirthday": {
+          "value": "1986-04-09",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#date"
+        },
+        "friendCompanies": {
+          "value": "Flybe 2007 United_Kingdom, British_Mediterranean_Airways 2007 United_Kingdom, Airtours_International_Airways 2006 United_Kingdom",
+          "type": "literal"
+        },
+        "friendLanguages": {
+          "value": "en",
+          "type": "literal"
+        },
+        "friendLastName": {
+          "value": "Smith",
+          "type": "literal"
+        },
+        "friendGender": {
+          "value": "male",
+          "type": "literal"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

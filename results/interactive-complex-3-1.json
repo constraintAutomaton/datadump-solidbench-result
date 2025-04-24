@@ -1,0 +1,18 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "xCount",
+      "yCount",
+      "count"
+    ]
+  },
+  "results": {
+    "bindings": []
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

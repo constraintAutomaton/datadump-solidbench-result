@@ -1,0 +1,131 @@
+{
+  "head": {
+    "vars": [
+      "personId",
+      "personFirstName",
+      "personLastName",
+      "commonInterestScore",
+      "personGender",
+      "personCityName"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "personFirstName": {
+          "value": "Henry",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Coventry",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "19791209301505",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Smith",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "male",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "0",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Aisso",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Addis_Ababa",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "28587302323175",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Gerima",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "female",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-55",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "Ibrahim Bare",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Dosso",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "2199023256077",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Ousmane",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "female",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-57",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      },
+      {
+        "personFirstName": {
+          "value": "K.",
+          "type": "literal"
+        },
+        "personCityName": {
+          "value": "Nagpur",
+          "type": "literal"
+        },
+        "personId": {
+          "value": "94",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#long"
+        },
+        "personLastName": {
+          "value": "Sen",
+          "type": "literal"
+        },
+        "personGender": {
+          "value": "female",
+          "type": "literal"
+        },
+        "commonInterestScore": {
+          "value": "-317",
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer"
+        }
+      }
+    ]
+  },
+  "metadata": {
+    "httpRequests": 0
+  }
+}

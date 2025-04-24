@@ -15,8 +15,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Ousmane",
+        "firstName": {
+          "value": "Ibrahim Bare",
           "type": "literal"
         },
         "personId": {
@@ -24,8 +24,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Ibrahim Bare",
+        "lastName": {
+          "value": "Ousmane",
           "type": "literal"
         }
       },
@@ -35,8 +35,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Muller",
+        "firstName": {
+          "value": "Karl",
           "type": "literal"
         },
         "personId": {
@@ -44,8 +44,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Karl",
+        "lastName": {
+          "value": "Muller",
           "type": "literal"
         }
       },
@@ -55,8 +55,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime"
         },
-        "lastName": {
-          "value": "Koksal",
+        "firstName": {
+          "value": "Abdullah",
           "type": "literal"
         },
         "personId": {
@@ -64,8 +64,8 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#long"
         },
-        "firstName": {
-          "value": "Abdullah",
+        "lastName": {
+          "value": "Koksal",
           "type": "literal"
         }
       }
